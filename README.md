@@ -4,23 +4,19 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Wejdan Alharbi</h1>
+<h1 align="center">Hi, Welcome to my GitHub! 👋</h1>
 
-<h3 align="center">
-
-Computer Science Graduate | Data Analysis | Artificial Intelligence
-
-</h3>
+<h3 align="center">Data Science | AI | Entrepreneurship & Innovation</h3>
 
 <p align="center">
 
-Passionate about turning data into actionable insights through data analysis, visualization, and AI-powered solutions.
+Computer Science graduate from Qassim University with a strong foundation in Data Analysis and a growing interest in Artificial Intelligence. Passionate about transforming data into actionable insights through analysis, visualization, and AI-driven solutions.
 
 </p>
 
 <p align="center">
 
-My GitHub showcases projects in <b>Artificial Intelligence</b>, <b>Data Analysis</b>, <b>SQL</b>, and <b>Power BI</b>.
+My pinned GitHub repositories showcase practical projects in <b>Artificial Intelligence</b>, <b>Data Analysis</b>, <b>SQL</b>, and <b>Power BI</b>, highlighting my hands-on experience and technical skills.
 
 </p>
 
@@ -30,17 +26,17 @@ My GitHub showcases projects in <b>Artificial Intelligence</b>, <b>Data Analysis
 
 <p align="left">
 
-  <a href="https://x.com/wn_2026" target="_blank">
+<a href="https://x.com/wn_2026" target="_blank">
 
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 
-  </a>
+</a>
 
-  <a href="mailto:wejdany2002@gmail.com">
+<a href="mailto:wejdany2002@gmail.com">
 
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 
-  </a>
+</a>
 
 </p>
 
@@ -52,7 +48,7 @@ My GitHub showcases projects in <b>Artificial Intelligence</b>, <b>Data Analysis
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,django" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,django" />
 
 </p>
 
@@ -80,7 +76,7 @@ My GitHub showcases projects in <b>Artificial Intelligence</b>, <b>Data Analysis
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=github,figma" />
+<img src="https://skillicons.dev/icons?i=github,figma" />
 
 </p>
 
@@ -88,21 +84,27 @@ My GitHub showcases projects in <b>Artificial Intelligence</b>, <b>Data Analysis
 
 # 📌 Featured Projects
 
-### 🚨 AI-Based Real-Time Violence Detection System
+🚨 **AI-Based Real-Time Violence Detection System**
 
-Real-time violence detection using computer vision and deep learning.
+Real-time violence detection system powered by Artificial Intelligence.
 
-### 📊 Data Analysis Projects
+---
 
-Data cleaning, exploratory data analysis (EDA), visualization, and business insights using Python.
+📊 **Data Analysis Projects**
 
-### 🗄️ SQL Projects
+Data cleaning, preprocessing, visualization, and business insights using Python.
+
+---
+
+🗄️ **SQL Projects**
 
 Database design, SQL queries, and data management using MySQL.
 
-### 📈 Power BI Dashboards
+---
 
-Interactive dashboards and business reports for data-driven decision making.
+📈 **Power BI Projects**
+
+Interactive dashboards and business reports.
 
 ---
 
@@ -124,6 +126,26 @@ Interactive dashboards and business reports for data-driven decision making.
 
 - Time Management
 
-- Planning & Organization
-
 - Microsoft Office Suite
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=WN2026&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WN2026&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WN2026&layout=compact&theme=tokyonight"/>
+
+</p>
