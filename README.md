@@ -26,20 +26,19 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 <p align="left">
 
-<a href="https://x.com/wn_2026" target="_blank">
+  <a href="https://x.com/wn_2026" target="_blank">
 
-  <img src="https://cdn.simpleicons.org/x" height="45" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" height="45" alt="X"/>
 
-</a>
+  </a>
 
-<a href="mailto:wejdany2002@gmail.com">
+  <a href="mailto:wejdany2002@gmail.com">
 
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="45" alt="Gmail"/>
 
-</a>
+  </a>
 
 </p>
-
 ---
 
 # 💻 Tech Stack
