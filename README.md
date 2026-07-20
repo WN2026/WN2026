@@ -1,16 +1,134 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**WN2026/WN2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="assets/banner.png" alt="Wejdan Harbi Banner" width="100%" />
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Wejdan Alharbi </h1>
+
+<h3 align="center">Computer Science Graduate | Data Analysis | Artificial Intelligence</h3>
+
+<p align="center">
+
+Computer Science graduate from Qassim University with a strong foundation in Data Analysis and a growing interest in Artificial Intelligence. Passionate about transforming data into actionable insights through analysis, visualization, and AI-driven solutions.
+
+</p>
+
+<p align="center">
+
+My pinned GitHub repositories showcase practical projects in <b>Artificial Intelligence</b>, <b>Data Analysis</b>, <b>SQL</b>, and <b>Power BI</b>, highlighting my hands-on experience and technical skills.
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://x.com/wn_2026" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+
+
+
+<a href="mailto:wejdany2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,mysql,figma" />
+
+</p>
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### AI & Automation
+
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+🚨 **AI-Based Real-Time Violence Detection System**
+
+Real-time violence detection system powered by Artificial Intelligence.
+
+---
+
+📊 **Data Analysis Projects**
+
+Data cleaning, preprocessing, visualization, and business insights using Python.
+
+---
+
+🗄️ **SQL Projects**
+
+Database design, SQL queries, and data management using MySQL.
+
+---
+
+📈 **Power BI Projects**
+
+Interactive dashboards and business reports.
+
+---
+
+# 💡 Core Skills
+
+- Data Analysis & Preprocessing
+
+- Database Management
+
+- AI Agent Development
+
+- Workflow Automation
+
+---
+
+# 🤝 Professional Skills
+
+- Effective Communication
+
+- Time Management
+
+- Microsoft Office Suite
+
+---
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WN2026&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WN2026&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WN2026&layout=compact&theme=tokyonight"/>
+
+</p>
