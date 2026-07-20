@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Wejdan Alharbi </h1>
+<h1 align="center">Hi 👋, I'm Wejdan Alharbi</h1>
 
 <h3 align="center">Computer Science Graduate | Data Analysis | Artificial Intelligence</h3>
 
@@ -26,11 +26,17 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 <p align="left">
 
-<a href="https://x.com/wn_2026" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+<a href="https://x.com/wn_2026" target="_blank">
 
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 
+</a>
 
-<a href="mailto:wejdany2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+<a href="mailto:wejdany2002@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+
+</a>
 
 </p>
 
@@ -38,15 +44,19 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 # 💻 Tech Stack
 
-### Languages
+### Programming
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,mysql,figma" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,django" />
 
 </p>
 
-### Data Analysis
+### Data Analysis & Databases
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -54,13 +64,21 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### AI & Automation
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
+
+</p>
 
 ---
 
@@ -111,7 +129,6 @@ Interactive dashboards and business reports.
 - Microsoft Office Suite
 
 ---
-
 
 # 📊 GitHub Stats
 
