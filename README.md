@@ -28,7 +28,7 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 <a href="https://x.com/wn_2026" target="_blank">
 
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  <img src="https://cdn.simpleicons.org/x" height="45" alt="X"/>
 
 </a>
 
