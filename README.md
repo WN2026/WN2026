@@ -4,19 +4,23 @@
 
 </p>
 
-<h1 align="center">Hi , Welcome to my GitHub!</h1>
+<h1 align="center">Hi 👋, I'm Wejdan Alharbi</h1>
 
-<h3 align="center"> Data Science | AI | Entrepreneurship • innovation</h3>
+<h3 align="center">
+
+Computer Science Graduate | Data Analysis | Artificial Intelligence
+
+</h3>
 
 <p align="center">
 
-Computer Science graduate from Qassim University with a strong foundation in Data Analysis and a growing interest in Artificial Intelligence. Passionate about transforming data into actionable insights through analysis, visualization, and AI-driven solutions.
+Passionate about turning data into actionable insights through data analysis, visualization, and AI-powered solutions.
 
 </p>
 
 <p align="center">
 
-My pinned GitHub repositories showcase practical projects in <b>Artificial Intelligence</b>, <b>Data Analysis</b>, <b>SQL</b>, and <b>Power BI</b>, highlighting my hands-on experience and technical skills.
+My GitHub showcases projects in <b>Artificial Intelligence</b>, <b>Data Analysis</b>, <b>SQL</b>, and <b>Power BI</b>.
 
 </p>
 
@@ -28,17 +32,18 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
   <a href="https://x.com/wn_2026" target="_blank">
 
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" height="45" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X">
 
   </a>
 
   <a href="mailto:wejdany2002@gmail.com">
 
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="45" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail">
 
   </a>
 
 </p>
+
 ---
 
 # 💻 Tech Stack
@@ -47,7 +52,7 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,django" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,django" />
 
 </p>
 
@@ -63,7 +68,7 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### AI Agents & Automation
 
@@ -75,7 +80,7 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=github,figma" />
+  <img src="https://skillicons.dev/icons?i=github,figma" />
 
 </p>
 
@@ -83,27 +88,21 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 # 📌 Featured Projects
 
-🚨 **AI-Based Real-Time Violence Detection System**
+### 🚨 AI-Based Real-Time Violence Detection System
 
-Real-time violence detection system powered by Artificial Intelligence.
+Real-time violence detection using computer vision and deep learning.
 
----
+### 📊 Data Analysis Projects
 
-📊 **Data Analysis Projects**
+Data cleaning, exploratory data analysis (EDA), visualization, and business insights using Python.
 
-Data cleaning, preprocessing, visualization, and business insights using Python.
-
----
-
-🗄️ **SQL Projects**
+### 🗄️ SQL Projects
 
 Database design, SQL queries, and data management using MySQL.
 
----
+### 📈 Power BI Dashboards
 
-📈 **Power BI Projects**
-
-Interactive dashboards and business reports.
+Interactive dashboards and business reports for data-driven decision making.
 
 ---
 
@@ -125,7 +124,6 @@ Interactive dashboards and business reports.
 
 - Time Management
 
+- Planning & Organization
+
 - Microsoft Office Suite
-
----
-
