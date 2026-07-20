@@ -22,31 +22,6 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-
-  <a href="https://x.com/wn_2026" target="_blank">
-
-    <img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X"/>
-
-  </a>
-
-  <a href="mailto:wejdany2002@gmail.com" target="_blank">
-
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Gmail"/>
-
-  </a>
-
-  <a href="https://www.linkedin.com/" target="_blank">
-
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn"/>
-
-  </a>
-
-</p>
-
------ 
 
 # 💻 Tech Stack
 
@@ -136,22 +111,20 @@ Interactive dashboards and business reports.
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WN2026&show_icons=true&theme=tokyonight"/>
+<a href="https://x.com/wn_2026" target="_blank">
 
-</p>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 
-<p align="center">
+</a>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WN2026&theme=tokyonight"/>
+<a href="mailto:wejdany2002@gmail.com">
 
-</p>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WN2026&layout=compact&theme=tokyonight"/>
+</a>
 
 </p>
