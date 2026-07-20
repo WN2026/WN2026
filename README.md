@@ -24,21 +24,30 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 ## 🌐 Connect with Me
 
-<div align="left">
+<p align="left">
 
-<a href="https://x.com/wn_2026" target="_blank">
+  <a href="https://x.com/wn_2026" target="_blank">
 
-  <img src="https://cdn.simpleicons.org/x" height="35" alt="X">
+    <img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X"/>
 
-</a>
+  </a>
 
-<a href="mailto:wejdany2002@gmail.com">
+  <a href="mailto:wejdany2002@gmail.com" target="_blank">
 
-  <img src="https://cdn.simpleicons.org/gmail" height="35" alt="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Gmail"/>
 
-</a>
+  </a>
 
-</div>
+  <a href="https://www.linkedin.com/" target="_blank">
+
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn"/>
+
+  </a>
+
+</p>
+
+----- 
+
 # 💻 Tech Stack
 
 ### Programming
