@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Wejdan Alharbi</h1>
+<h1 align="center">Hi! , I'm Wejdan Alharbi</h1>
 
 <h3 align="center">Computer Science Graduate | Data Analysis | Artificial Intelligence</h3>
 
@@ -66,7 +66,7 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### AI & Automation
+### AI Agents & Automation
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
 
@@ -76,7 +76,7 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+<img src="https://skillicons.dev/icons?i=github,figma" />
 
 </p>
 
@@ -130,22 +130,3 @@ Interactive dashboards and business reports.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WN2026&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WN2026&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WN2026&layout=compact&theme=tokyonight"/>
-
-</p>
