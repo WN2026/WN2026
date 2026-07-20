@@ -4,9 +4,9 @@
 
 </p>
 
-<h1 align="center">Hi! , I'm Wejdan Alharbi</h1>
+<h1 align="center">Hi , Welcome to my GitHub!</h1>
 
-<h3 align="center">Computer Science Graduate | Data Analysis | Artificial Intelligence</h3>
+<h3 align="center"> Data Science | AI | Entrepreneurship • innovation</h3>
 
 <p align="center">
 
