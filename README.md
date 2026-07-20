@@ -24,13 +24,21 @@ My pinned GitHub repositories showcase practical projects in <b>Artificial Intel
 
 ## 🌐 Connect with Me
 
-[<img src="https://cdn.simpleicons.org/x" height="35">](https://x.com/wn_2026)
+<div align="left">
 
-&nbsp;&nbsp;
+<a href="https://x.com/wn_2026" target="_blank">
 
-[<img src="https://cdn.simpleicons.org/gmail" height="35">](mailto:wejdany2002@gmail.com)
----
+  <img src="https://cdn.simpleicons.org/x" height="35" alt="X">
 
+</a>
+
+<a href="mailto:wejdany2002@gmail.com">
+
+  <img src="https://cdn.simpleicons.org/gmail" height="35" alt="Gmail">
+
+</a>
+
+</div>
 # 💻 Tech Stack
 
 ### Programming
