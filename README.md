@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="assets/banner.png" alt="Wejdan Harbi Banner" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Banner">
 
 </p>
 
